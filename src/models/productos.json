@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Intel i7",
+    "description": "Procesador gama alta",
+    "price": 300000,
+    "thumbnail": "",
+    "code": "777",
+    "stock": 16,
+    "id": "6a57ce8f-1a00-4b52-b2fc-bdd643408a61"
+  },
+  {
+    "title": "Intel i3",
+    "description": "Procesador gama baja",
+    "price": 50000,
+    "thumbnail": "",
+    "code": "333",
+    "stock": 10,
+    "id": "68f06681-9837-4919-954b-e44d0199a379"
+  },
+  {
+    "tittle": "Intel i5",
+    "description": "Procesador gama media",
+    "price": 150000,
+    "thumbnail": "",
+    "code": "555",
+    "stock": 10,
+    "id": "96d78f6e-904e-44f2-8844-aa4bd113f4f5"
+  }
+]
